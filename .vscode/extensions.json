@@ -1,0 +1,17 @@
+{
+   "recommendations": [
+      "editorconfig.editorconfig",
+      "dbaeumer.vscode-eslint",
+      "visualstudioexptteam.vscodeintellicode",
+      "ms-vscode.vscode-typescript-next",
+      "ritwickdey.liveserver",
+      "christian-kohler.npm-intellisense",
+      "esbenp.prettier-vscode",
+      "ms-ceintl.vscode-language-pack-pt-br",
+      "mikestead.dotenv",
+      "expresssnippets.vscode-express-snippets",
+      "xabikos.javascriptsnippets",
+      "pkief.material-icon-theme",
+      "chris-noring.node-snippets"
+   ]
+}
